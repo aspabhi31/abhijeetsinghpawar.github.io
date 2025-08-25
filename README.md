@@ -55,10 +55,8 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 ---
 
 ## 🚀 Projects – [View Repository](https://github.com/aspabhi31/PortfolioProjects)  
-
-- **Case Study of U Food Marketing** – Data Cleaning & Correlation Analysis with Python (Pandas, Seaborn, Matplotlib)  
-- **Exploratory Data Analysis** – US Household Income dataset with SQL/MySQL  
-- **ETL Pipelines** – Built pipelines with **Azure Data Factory, Storage Accounts, Azure SQL Database**  
+  
+- **Exploratory Data Analysis** – US Household Income dataset with SQL/MySQL    
 - **US Debt Tracker** – Advanced Excel project with forecasting & pivot analysis  
 - **Advanced Data Visualizations** – Interactive Tableau dashboards on Rental Properties  
 - **Case Study: Startup Funding in India** – Analysis with Pandas, NumPy, Matplotlib  
