@@ -16,7 +16,7 @@
 ## 🛠 Skills  
 
 **Languages & Tools**  
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, NoSQL  
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras), SQL, NoSQL  
 - **Data Visualization**: Tableau, Power BI, Excel, Jupyter Notebook  
 - **Cloud & Databases**: Azure, AWS, MongoDB, Azure SQL Database  
 - **Techniques**: EDA, Statistical Analysis, ETL, APIs, Advanced Excel  
@@ -62,7 +62,9 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **US Debt Tracker** – Advanced Excel project with forecasting & pivot analysis  
 - **Advanced Data Visualizations** – Interactive Tableau dashboards on Rental Properties  
 - **Case Study: Startup Funding in India** – Analysis with Pandas, NumPy, Matplotlib  
-
+- **Automatic License Plate Detection (ALPD)** – Python, NumPy, Matplotlib, OpenCV
+- **Combined Cycle Power Plant Energy Output Prediction** – Python, NumPy, scikit-learn (for scaling)
+- **Titanic Survival Prediction using Logistic Regression** – Python, Pandas, NumPy, scikit-learn
 ---
 
 ## 📫 Connect with Me  
