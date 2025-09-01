@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijeet Singh Pawar  
 
-🎯 Aspiring **Data Scientist | AI/ML Enthusiast | Cloud Developer**  
+🎯 Aspiring **Data Scientist | AI/ML Enthusiast**  
 📍 Based in Canada | 🌍 Open to Global Opportunities  
 
 ---
