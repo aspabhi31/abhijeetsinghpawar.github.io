@@ -2,4 +2,4 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Abhijeet Singh Pawar]
-description: [Aspiring Data Analyst/Scientist | Leveraging Python,, SQL,, and ML to Drive Business Insights | M.A.Sc. in Computer Engineering | Passionate About Solving Real-World Problems with Data]
+description: [Aspiring Data Analyst/Scientist | Leveraging Python, SQL, and ML to Drive Business Insights | M.A.Sc. in Computer Engineering | Passionate About Solving Real-World Problems with Data]
