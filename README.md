@@ -63,7 +63,8 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **Automatic License Plate Detection (ALPD)** – Python, NumPy, Matplotlib, OpenCV
 - **Combined Cycle Power Plant Energy Output Prediction** – Python, NumPy, scikit-learn (for scaling)
 - **Titanic Survival Prediction using Logistic Regression** – Python, Pandas, NumPy, scikit-learn
-- **Decision Tree Classifier from Scratch** – Python, NumPy, scikit-learn  
+- **Decision Tree Classifier from Scratch** – Python, NumPy, scikit-learn
+- **Text Classification using Multinomial Naive Bayes** – Python, NumPy, scikit-learn   
 
 ---
 
