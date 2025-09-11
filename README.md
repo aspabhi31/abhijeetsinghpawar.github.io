@@ -64,7 +64,10 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **Combined Cycle Power Plant Energy Output Prediction** – Python, NumPy, scikit-learn (for scaling)
 - **Titanic Survival Prediction using Logistic Regression** – Python, Pandas, NumPy, scikit-learn
 - **Decision Tree Classifier from Scratch** – Python, NumPy, scikit-learn
-- **Text Classification using Multinomial Naive Bayes** – Python, NumPy, scikit-learn   
+- **Text Classification using Multinomial Naive Bayes** – Python, NumPy, scikit-learn
+- **PCA and Ensemble classifier on Cifar10** – Python, NumPy, scikit-learn, Matplotlib, Cifar10
+- **Twitter Sentiment Analysis** – Python, Pandas, NLTK, scikit-learn
+- **Distracted Driver Detection** – Python, NumPy, TensorFlow/Keras   
 
 ---
 
