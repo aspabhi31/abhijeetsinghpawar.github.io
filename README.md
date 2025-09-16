@@ -67,7 +67,8 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **Text Classification using Multinomial Naive Bayes** – Python, NumPy, scikit-learn
 - **PCA and Ensemble classifier on Cifar10** – Python, NumPy, scikit-learn, Matplotlib, Cifar10
 - **Twitter Sentiment Analysis** – Python, Pandas, NLTK, scikit-learn
-- **Distracted Driver Detection** – Python, NumPy, TensorFlow/Keras   
+- **Distracted Driver Detection** – Python, NumPy, TensorFlow/Keras
+- **Neural Machine Translation(French to English)** - Python, TensorFlow, Keras, NLTK   
 
 ---
 
