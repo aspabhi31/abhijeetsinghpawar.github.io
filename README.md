@@ -62,15 +62,14 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **Case Study: Startup Funding in India** – Analysis with Pandas, NumPy, Matplotlib  
 - **Automatic License Plate Detection (ALPD)** – Python, NumPy, Matplotlib, OpenCV
 - **Combined Cycle Power Plant Energy Output Prediction** – Python, NumPy, scikit-learn (for scaling)
-- **Titanic Survival Prediction using Logistic Regression** – Python, Pandas, NumPy, scikit-learn
 - **Decision Tree Classifier from Scratch** – Python, NumPy, scikit-learn
 - **Text Classification using Multinomial Naive Bayes** – Python, NumPy, scikit-learn
 - **PCA and Ensemble classifier on Cifar10** – Python, NumPy, scikit-learn, Matplotlib, Cifar10
 - **Twitter Sentiment Analysis** – Python, Pandas, NLTK, scikit-learn
 - **Distracted Driver Detection** – Python, NumPy, TensorFlow/Keras
 - **Neural Machine Translation(French to English)** - Python, TensorFlow, Keras, NLTK   
-- **Car Damage Detection** - Python, PyToch, Hugging Face 
----
+- **Car Damage Detection** - Python, PyTorch, Hugging Face 
+
 ---
 
 ## 📫 Connect with Me  
