@@ -71,6 +71,7 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **Neural Machine Translation(French to English)** - Python, TensorFlow, Keras, NLTK   
 - **Car Damage Detection** - Python, PyToch, Hugging Face 
 ---
+---
 
 ## 📫 Connect with Me  
 
