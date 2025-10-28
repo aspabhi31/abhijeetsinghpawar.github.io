@@ -68,7 +68,8 @@ Adaptability • Analytical Mindset • Communication • Accountability • Att
 - **Twitter Sentiment Analysis** – Python, Pandas, NLTK, scikit-learn
 - **Distracted Driver Detection** – Python, NumPy, TensorFlow/Keras
 - **Neural Machine Translation(French to English)** - Python, TensorFlow, Keras, NLTK   
-- **Car Damage Detection** - Python, PyTorch, Hugging Face 
+- **Car Damage Detection** - Python, PyTorch, Hugging Face
+- **BERT Spam Classification** - Python, PyTorch, Hugging Face  
 
 ---
 
