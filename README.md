@@ -1,7 +1,6 @@
 # Abhijeet Singh Pawar  
 **Data Analyst | Data Scientist | Risk & Business Analytics**
-
-📍 India / Canada (Open to Remote & Relocation)  
+  
 📧 aspabhi31@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/)  
 💻 [GitHub](https://github.com/aspabhi31)  
