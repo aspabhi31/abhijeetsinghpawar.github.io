@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I am a **Data Analyst** with a strong focus on **risk analytics, business insights, and automation**.  
 I have hands-on experience building **end-to-end analytics pipelines**, **predictive models**, and **executive dashboards** using real-world datasets (20K–30K+ records).
@@ -17,7 +17,7 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 **Programming & Analytics**
 - Python (Pandas, NumPy, Scikit-learn, PyTorch)
@@ -37,7 +37,7 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **Vosyn — Data Analytics & Visualization Consultant**  
 *Remote | July 2025 – Present*
@@ -50,7 +50,7 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🔹 Credit Card Credit Risk Modeling & Approval Strategy  
 **Python | Risk Analytics**  
@@ -104,7 +104,7 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Memorial University of Newfoundland, Canada**  
 **MASc in Computer Engineering** | GPA: **3.81 / 4**  
@@ -116,14 +116,14 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **Data Science & Machine Learning** — Coding Ninjas (2024–2025)  
 - **Artificial Intelligence** — C-DAC (2021–2022)
 
 ---
 
-## 🚀 What I’m Looking For
+##  What I’m Looking For
 
 - Data Analyst / Data Scientist roles  
 - Risk Analytics & Business Intelligence positions  
