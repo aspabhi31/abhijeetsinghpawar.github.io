@@ -1,84 +1,136 @@
-# 👋 Hi, I'm Abhijeet Singh Pawar  
+# Abhijeet Singh Pawar  
+**Data Analyst | Data Scientist | Risk & Business Analytics**
 
-🎯 Aspiring **Data Scientist | AI/ML Enthusiast**  
-📍 Based in Canada | 🌍 Open to Global Opportunities  
-
----
-
-## 📚 Education  
-- **Master of Applied Science in Computer Engineering** – Memorial University of Newfoundland (GPA: 3.81/4.0)  
-  *St. John’s, NL, Canada | Jan 2022 – Aug 2024*  
-- **Bachelor of Engineering in Electronics (Instrumentation and Control)** – Thapar University  
-  *Patiala, Punjab, India | Aug 2017 – July 2021*  
+📍 India / Canada (Open to Remote & Relocation)  
+📧 aspabhi31@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/)  
+💻 [GitHub](https://github.com/aspabhi31)  
+🌐 [Portfolio Website](https://aspabhi31.github.io/abhijeetsinghpawar.github.io/)
 
 ---
 
-## 🛠 Skills  
+## 👋 About Me
 
-**Languages & Tools**  
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras), SQL, NoSQL  
-- **Data Visualization**: Tableau, Power BI, Excel, Jupyter Notebook  
-- **Cloud & Databases**: Azure, AWS, MongoDB, Azure SQL Database  
-- **Techniques**: EDA, Statistical Analysis, ETL, APIs, Advanced Excel  
+I am a **Data Analyst** with a strong focus on **risk analytics, business insights, and automation**.  
+I have hands-on experience building **end-to-end analytics pipelines**, **predictive models**, and **executive dashboards** using real-world datasets (20K–30K+ records).
 
-**Soft Skills**  
-Adaptability • Analytical Mindset • Communication • Accountability • Attention to Detail • Curiosity  
-
-**Certifications**  
-- Data Science and Machine Learning – Coding Ninjas, India  
+My work spans **retail analytics, credit risk modeling, customer behavior analysis, and machine learning**, with an emphasis on **interpretability and business impact**.
 
 ---
 
-## 💼 Professional Experience  
+## 🧠 Core Skills
 
-**Data Analytics & Visualization Consultant (Internship) – Vosyn**  
-*Toronto, ON, Canada (Remote) | Aug 2025 – Present*  
-- Analyzed data trends, built dashboards, validated accuracy, and supported decision-making.  
-- Collaborated with stakeholders to deliver actionable insights.  
+**Programming & Analytics**
+- Python (Pandas, NumPy, Scikit-learn, PyTorch)
+- SQL (MySQL, PostgreSQL – CTEs, Window Functions, Subqueries)
 
-**Coding Expert – Outlier**  
-*Remote, St. John’s, NL, Canada | Oct 2024 – Present*  
-- Designed advanced coding solutions in **Data Analysis & Data Science**.  
-- Developed SQL-Python integrations for data cleaning & manipulation.  
-- Improved LLM responses by authoring/refining prompts & reviewing peer contributions.  
+**Data Science & Modeling**
+- Regression & Classification
+- Credit Risk Modeling (PD, Risk Bands)
+- Churn Analysis & Customer Segmentation
+- NLP (BERT-based Text Classification)
+- Model Validation (ROC-AUC, KS, Precision/Recall)
 
-**Tutor – Varsity Tutors**  
-*Remote, St. John’s, NL, Canada | Jul 2022 – Aug 2025*  
-- Delivered 1:1 tutoring in **Computer Science, Physics, and Mathematics**.  
-- Created tailored lesson plans and mentored students on debugging, coding best practices, and problem-solving.  
-
-**AI Intern – C-DAC (Centre for Development of Advanced Computing)**  
-*Mohali, Punjab, India | Jan 2021 – Jul 2021*  
-- Implemented a **Drowsiness Detection System** using ML.  
-- Researched facial detection papers and gained hands-on AI/ML project experience.  
+**Business Intelligence & Automation**
+- Power BI (Interactive Dashboards, KPI Tracking)
+- Advanced Excel (Pivot Tables, Power Query, Automation)
+- Data Cleaning, Validation & Reporting Automation
 
 ---
 
-## 🚀 Projects – [View Repository](https://github.com/aspabhi31/PortfolioProjects)  
-  
-- **Exploratory Data Analysis** – US Household Income dataset with SQL/MySQL    
-- **US Debt Tracker** – Advanced Excel project with forecasting & pivot analysis  
-- **Advanced Data Visualizations** – Interactive Tableau dashboards on Rental Properties  
-- **Case Study: Startup Funding in India** – Analysis with Pandas, NumPy, Matplotlib  
-- **Automatic License Plate Detection (ALPD)** – Python, NumPy, Matplotlib, OpenCV
-- **Combined Cycle Power Plant Energy Output Prediction** – Python, NumPy, scikit-learn (for scaling)
-- **Decision Tree Classifier from Scratch** – Python, NumPy, scikit-learn
-- **Text Classification using Multinomial Naive Bayes** – Python, NumPy, scikit-learn
-- **PCA and Ensemble classifier on Cifar10** – Python, NumPy, scikit-learn, Matplotlib, Cifar10
-- **Twitter Sentiment Analysis** – Python, Pandas, NLTK, scikit-learn
-- **Distracted Driver Detection** – Python, NumPy, TensorFlow/Keras
-- **Neural Machine Translation(French to English)** - Python, TensorFlow, Keras, NLTK   
-- **Car Damage Detection** - Python, PyTorch, Hugging Face
-- **BERT Spam Classification** - Python, PyTorch, Hugging Face  
+## 💼 Experience
+
+### **Vosyn — Data Analytics & Visualization Consultant**  
+*Remote | July 2025 – Present*
+
+- Automated data cleaning, preprocessing, and validation workflows, reducing manual reporting effort by ~30%.
+- Built analysis-ready datasets and data pipelines to support dashboards and operational reporting.
+- Performed exploratory data analysis (EDA) to identify trends, anomalies, and data quality issues.
+- Developed and evaluated predictive models (Logistic Regression, Naive Bayes, BERT-based NLP classifiers).
+- Conducted comparative model analysis focusing on accuracy, interpretability, and business impact.
 
 ---
 
-## 📫 Connect with Me  
+## 📊 Featured Projects
 
-- 📧 Email: [aspabhi31@gmail.com](mailto:aspabhi31@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/abhijeet-singh-pawar-482576149](https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/)  
-- 💻 GitHub: [github.com/aspabhi31](https://github.com/aspabhi31)  
+### 🔹 Credit Card Credit Risk Modeling & Approval Strategy  
+**Python | Risk Analytics**  
+🔗 https://github.com/aspabhi31/credit-risk-project
+
+- Analyzed ~30,000 customer records to identify key drivers of default risk.
+- Built an interpretable **Probability of Default (PD)** scoring framework with Low / Medium / High risk bands.
+- Evaluated model performance using **ROC-AUC (~0.70+)** and **KS (~0.30+)**.
+- Designed PD-based approval cutoffs and simulated portfolio impact, reducing expected credit loss.
 
 ---
 
-⭐️ *Passionate about Data Science, AI/ML, and Cloud Development. Always learning, building, and striving to be among the best in the world.*  
+### 🔹 Retail Business Analytics & Customer Behavior  
+**Python | SQL | Power BI**  
+🔗 https://github.com/aspabhi31/retail-business-analytics
+
+- Built an end-to-end SQL analytics pipeline on ~20K retail transactions.
+- Identified that **top 20% of customers contribute ~75% of total revenue**.
+- Flagged ~5% of customers at churn risk using inactivity-based analysis.
+- Modeled customer lifetime value (CLV) and repeat-purchase behavior.
+- Developed interactive Power BI dashboards for KPI and executive reporting.
+
+---
+
+### 🔹 Predictive Risk Classification – Vehicle Damage Detection  
+**PyTorch | Transfer Learning | Optuna**  
+🔗 https://github.com/aspabhi31/Vehicle-Damage-Detection
+
+- Developed a **ResNet50-based classification model** to assess vehicle damage across six categories.
+- Applied data augmentation and hyperparameter optimization to improve robustness.
+- Evaluated performance using confusion matrix, precision/recall, and error analysis.
+
+---
+
+### 🔹 Time Series & Regression – Energy Output Prediction  
+**Scikit-learn**  
+🔗 https://github.com/aspabhi31/Energy-Output-Prediction
+
+- Built regression and forecasting models on multi-year sensor data.
+- Optimized learning rates and convergence to minimize MSE.
+- Demonstrated structured modeling and transparent evaluation.
+
+---
+
+### 🔹 US Debt Tracker Analysis  
+**Advanced Excel**  
+🔗 https://github.com/aspabhi31/US-Debt-Tracker-Analysis
+
+- Analyzed 7,000+ daily records to identify long-term debt trends.
+- Identified a 26% spike in 2020 and projected 12–13% annual growth.
+
+---
+
+## 🎓 Education
+
+**Memorial University of Newfoundland, Canada**  
+**MASc in Computer Engineering** | GPA: **3.81 / 4**  
+*2022 – 2024*
+
+**Thapar University, India**  
+**B.Tech in Electronics (Instrumentation & Control Engineering)**  
+*2017 – 2021*
+
+---
+
+## 📜 Certifications
+
+- **Data Science & Machine Learning** — Coding Ninjas (2024–2025)  
+- **Artificial Intelligence** — C-DAC (2021–2022)
+
+---
+
+## 🚀 What I’m Looking For
+
+- Data Analyst / Data Scientist roles  
+- Risk Analytics & Business Intelligence positions  
+- Entry roles   
+- Teams that value **data-driven decision-making**
+
+---
+
+⭐ If you find my work interesting, feel free to connect or explore my repositories!
