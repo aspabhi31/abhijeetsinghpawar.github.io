@@ -4,7 +4,6 @@
 📧 aspabhi31@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/)  
 💻 [GitHub](https://github.com/aspabhi31)  
-🌐 [Portfolio Website](https://aspabhi31.github.io/abhijeetsinghpawar.github.io/)
 
 ---
 
