@@ -78,11 +78,10 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 **Python | SQL | Power BI**  
 🔗 https://github.com/aspabhi31/SaaS-Product-Revenue-Analytics
 
-- Built an end-to-end SQL analytics pipeline on ~10K records.
-- Identified that **top 20% of customers contribute ~75% of total revenue**.
-- Flagged ~5% of customers at churn risk using inactivity-based analysis.
-- Modeled customer lifetime value (CLV) and repeat-purchase behavior.
-- Developed interactive Power BI dashboards for KPI and executive reporting.
+- Built end-to-end SaaS Product Analytics project using MySQL, analyzing funnel conversion, cohort retention, MRR, ARPU, churn (~10%), and LTV (~₹13.1K).
+- Conducted channel-level revenue segmentation, identifying Referral as highest conversion source and Paid Ads as highest ARPU driver.
+- Designed cohort-based retention framework to evaluate user stickiness and long-term revenue sustainability.
+- Delivered data-driven recommendations to optimize acquisition strategy and improve monetization efficiency.
 
 ---
 
