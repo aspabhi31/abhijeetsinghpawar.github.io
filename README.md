@@ -1,5 +1,5 @@
 # Abhijeet Singh Pawar  
-**Data Analyst | Data Scientist | Risk & Business Analytics**
+**Data Analyst | Data Scientist | Risk, Product & Business Analytics**
   
 📧 aspabhi31@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/)  
@@ -9,7 +9,7 @@
 
 ##  About Me
 
-I am a **Data Analyst** with a strong focus on **risk analytics, business insights, and automation**.  
+I am a **Data Analyst** with a strong focus on **risk, product, business analytics, business insights, and automation**.  
 I have hands-on experience building **end-to-end analytics pipelines**, **predictive models**, and **executive dashboards** using real-world datasets (20K–30K+ records).
 
 My work spans **retail analytics, credit risk modeling, customer behavior analysis, and machine learning**, with an emphasis on **interpretability and business impact**.
@@ -39,7 +39,7 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 ##  Experience
 
 ### **Vosyn — Data Analytics & Visualization Consultant**  
-*Remote | July 2025 – Present*
+*Remote | July 2025 – January 2026*
 
 - Automated data cleaning, preprocessing, and validation workflows, reducing manual reporting effort by ~30%.
 - Built analysis-ready datasets and data pipelines to support dashboards and operational reporting.
