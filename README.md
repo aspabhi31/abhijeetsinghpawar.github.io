@@ -74,6 +74,18 @@ My work spans **retail analytics, credit risk modeling, customer behavior analys
 
 ---
 
+### 🔹 SaaS Product & Revenue Analytics  
+**Python | SQL | Power BI**  
+🔗 https://github.com/aspabhi31/SaaS-Product-Revenue-Analytics
+
+- Built an end-to-end SQL analytics pipeline on ~10K records.
+- Identified that **top 20% of customers contribute ~75% of total revenue**.
+- Flagged ~5% of customers at churn risk using inactivity-based analysis.
+- Modeled customer lifetime value (CLV) and repeat-purchase behavior.
+- Developed interactive Power BI dashboards for KPI and executive reporting.
+
+---
+
 ### 🔹 Predictive Risk Classification – Vehicle Damage Detection  
 **PyTorch | Transfer Learning | Optuna**  
 🔗 https://github.com/aspabhi31/Vehicle-Damage-Detection
