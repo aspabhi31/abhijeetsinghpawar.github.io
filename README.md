@@ -1,145 +1,230 @@
-# Abhijeet Singh Pawar  
-**Data Analyst | Data Scientist | Risk, Product & Business Analytics**
-  
-📧 aspabhi31@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/)  
-💻 [GitHub](https://github.com/aspabhi31)  
+# Abhijeet Singh Pawar - Portfolio Website
 
----
+Welcome to my personal portfolio website.
 
-##  About Me
+This website showcases my journey in Data Science, Machine Learning, Generative AI, Agentic AI, and Software Development.
 
-I am a **Data Analyst** with a strong focus on **risk, product, business analytics, business insights, and automation**.  
-I have hands-on experience building **end-to-end analytics pipelines**, **predictive models**, and **executive dashboards** using real-world datasets (20K–30K+ records).
+## Live Website
 
-My work spans **retail analytics, credit risk modeling, customer behavior analysis, and machine learning**, with an emphasis on **interpretability and business impact**.
+🌐 Portfolio: https://aspabhi31.github.io/abhijeetsinghpawar.github.io/
 
----
 
-##  Core Skills
 
-**Programming & Analytics**
-- Python (Pandas, NumPy, Scikit-learn, PyTorch)
-- SQL (MySQL, PostgreSQL – CTEs, Window Functions, Subqueries)
+## About Me
 
-**Data Science & Modeling**
-- Regression & Classification
-- Credit Risk Modeling (PD, Risk Bands)
-- Churn Analysis & Customer Segmentation
-- NLP (BERT-based Text Classification)
-- Model Validation (ROC-AUC, KS, Precision/Recall)
+I am a Data Scientist and AI Engineer with a Master's degree in Computer Engineering from Memorial University of Newfoundland, Canada.
 
-**Business Intelligence & Automation**
-- Power BI (Interactive Dashboards, KPI Tracking)
-- Advanced Excel (Pivot Tables, Power Query, Automation)
-- Data Cleaning, Validation & Reporting Automation
+My interests lie at the intersection of:
 
----
+- Artificial Intelligence
+- Generative AI
+- Agentic AI
+- Machine Learning
+- Data Science
+- Data Analytics
+- Software Engineering
 
-##  Experience
+I enjoy building intelligent systems that transform data into actionable insights and automate complex workflows.
 
-### **Vosyn — Data Analytics & Visualization Consultant**  
-*Remote | July 2025 – January 2026*
 
-- Automated data cleaning, preprocessing, and validation workflows, reducing manual reporting effort by ~30%.
-- Built analysis-ready datasets and data pipelines to support dashboards and operational reporting.
-- Performed exploratory data analysis (EDA) to identify trends, anomalies, and data quality issues.
-- Developed and evaluated predictive models (Logistic Regression, Naive Bayes, BERT-based NLP classifiers).
-- Conducted comparative model analysis focusing on accuracy, interpretability, and business impact.
 
----
+## Technologies Used
 
-##  Featured Projects
 
-### 🔹 Credit Card Credit Risk Modeling & Approval Strategy  
-**Python | Risk Analytics**  
-🔗 https://github.com/aspabhi31/credit-risk-project
+### Deployment
 
-- Analyzed ~30,000 customer records to identify key drivers of default risk.
-- Built an interpretable **Probability of Default (PD)** scoring framework with Low / Medium / High risk bands.
-- Evaluated model performance using **ROC-AUC (~0.70+)** and **KS (~0.30+)**.
-- Designed PD-based approval cutoffs and simulated portfolio impact, reducing expected credit loss.
+- GitHub Pages
+- GitHub Actions (optional)
 
----
+### Development Tools
 
-### 🔹 Retail Business Analytics & Customer Behavior  
-**Python | SQL | Power BI**  
-🔗 https://github.com/aspabhi31/retail-business-analytics
+- Git
+- GitHub
+- VS Code
 
-- Built an end-to-end SQL analytics pipeline on ~20K retail transactions.
-- Identified that **top 20% of customers contribute ~75% of total revenue**.
-- Flagged ~5% of customers at churn risk using inactivity-based analysis.
-- Modeled customer lifetime value (CLV) and repeat-purchase behavior.
-- Developed interactive Power BI dashboards for KPI and executive reporting.
 
----
 
-### 🔹 SaaS Product & Revenue Analytics  
-**Python | SQL | Power BI**  
-🔗 https://github.com/aspabhi31/SaaS-Product-Revenue-Analytics
+## Technical Skills
 
-- Built end-to-end SaaS Product Analytics project using MySQL, analyzing funnel conversion, cohort retention, MRR, ARPU, churn (~10%), and LTV (~₹13.1K).
-- Conducted channel-level revenue segmentation, identifying Referral as highest conversion source and Paid Ads as highest ARPU driver.
-- Designed cohort-based retention framework to evaluate user stickiness and long-term revenue sustainability.
-- Delivered data-driven recommendations to optimize acquisition strategy and improve monetization efficiency.
+### Programming
 
----
+- Python
+- SQL
 
-### 🔹 Predictive Risk Classification – Vehicle Damage Detection  
-**PyTorch | Transfer Learning | Optuna**  
-🔗 https://github.com/aspabhi31/Vehicle-Damage-Detection
+### Data Science
 
-- Developed a **ResNet50-based classification model** to assess vehicle damage across six categories.
-- Applied data augmentation and hyperparameter optimization to improve robustness.
-- Evaluated performance using confusion matrix, precision/recall, and error analysis.
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
 
----
+### Machine Learning
 
-### 🔹 Time Series & Regression – Energy Output Prediction  
-**Scikit-learn**  
-🔗 https://github.com/aspabhi31/Energy-Output-Prediction
+- Regression
+- Classification
+- Predictive Analytics
+- Feature Engineering
+- Model Evaluation
 
-- Built regression and forecasting models on multi-year sensor data.
-- Optimized learning rates and convergence to minimize MSE.
-- Demonstrated structured modeling and transparent evaluation.
+### Generative AI
 
----
+- LangChain
+- LangGraph
+- CrewAI
+- Groq
+- Ollama
+- Prompt Engineering
 
-### 🔹 US Debt Tracker Analysis  
-**Advanced Excel**  
-🔗 https://github.com/aspabhi31/US-Debt-Tracker-Analysis
+### Agentic AI
 
-- Analyzed 7,000+ daily records to identify long-term debt trends.
-- Identified a 26% spike in 2020 and projected 12–13% annual growth.
+- Multi-Agent Systems
+- Agent Orchestration
+- A2A Communication
+- MCP (Model Context Protocol)
 
----
+### RAG Systems
 
-##  Education
+- Retrieval-Augmented Generation
+- ChromaDB
+- Vector Databases
+- Semantic Search
 
-**Memorial University of Newfoundland, Canada**  
-**MASc in Computer Engineering** | GPA: **3.81 / 4**  
-*2022 – 2024*
+### Analytics & Visualization
 
-**Thapar University, India**  
-**B.Tech in Electronics (Instrumentation & Control Engineering)**  
-*2017 – 2021*
+- Power BI
+- Excel
+- Dashboard Development
+- KPI Reporting
 
----
 
-##  Certifications
 
-- **Data Science & Machine Learning** — Coding Ninjas (2024–2025)  
-- **Artificial Intelligence** — C-DAC (2021–2022)
+## Featured Projects
 
----
+### Vehicle Damage Risk Platform
 
-##  What I’m Looking For
+An end-to-end insurance intelligence platform combining:
 
-- Data Analyst / Data Scientist roles  
-- Risk Analytics & Business Intelligence positions  
-- Entry roles   
-- Teams that value **data-driven decision-making**
+- Computer Vision
+- Fraud Detection
+- Explainable AI
+- Risk Assessment
 
----
+Tech Stack:
 
-⭐ If you find my work interesting, feel free to connect or explore my repositories!
+- PyTorch
+- XGBoost
+- Scikit-Learn
+- Streamlit
+- SHAP
+
+
+
+### Credit Risk Modeling & Approval Strategy
+
+Machine learning solution for identifying default risk and optimizing credit approval decisions.
+
+Highlights:
+
+- 30,000+ customer records analyzed
+- Probability of Default Modeling
+- Risk-Based Approval Framework
+
+Tech Stack:
+
+- Python
+- Scikit-Learn
+- Pandas
+
+
+
+### Retail Business Analytics
+
+Business Intelligence solution for revenue, customer, and product analysis.
+
+Highlights:
+
+- SQL Analytics Pipeline
+- Executive Dashboard
+- Customer Segmentation
+
+Tech Stack:
+
+- SQL
+- Python
+- Power BI
+
+
+## Professional Experience
+
+### Data Analytics & Visualization Consultant
+Vosyn (2025 – 2026)
+
+- Automated data preprocessing workflows
+- Built machine learning solutions
+- Delivered actionable business insights
+- Reduced reporting effort by 30%
+
+### Coding Expert
+Outlier (2024 – 2025)
+
+- Evaluated and optimized Python solutions
+- Improved LLM training quality
+- Assisted AI model development workflows
+
+### Tutor
+Varsity Tutors (2022 – 2025)
+
+Mentored students in:
+
+- Programming
+- Mathematics
+- Physics
+
+
+
+## Education
+
+### Memorial University of Newfoundland
+
+Master of Applied Science (MASc)
+Computer Engineering
+
+GPA: 3.81 / 4.0
+
+
+
+### Thapar University
+
+Bachelor of Technology
+
+Electronics (Instrumentation and Control) Engineering
+
+
+
+## Certifications
+
+### Data Science & Machine Learning
+Coding Ninjas
+
+### Artificial Intelligence
+C-DAC
+
+
+
+## Current Focus
+
+I am actively building expertise in:
+
+- Agentic AI Systems
+- LangGraph Workflows
+- CrewAI Architectures
+- Advanced RAG
+- Multi-Agent Collaboration
+- AI Engineering
+- Cloud-Native AI Applications
+
+
+
+
+
